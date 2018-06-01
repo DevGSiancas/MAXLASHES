@@ -35,16 +35,19 @@ ob_start();
 	</div>
 </div>
 
-
-<!-- <div id="carousel-box" class="carousel slide desktop">
+<!--
+DESCOMENTAR ESTA SECCION PARA ACTIVAR ESTA FUNCION. NO OLVIDA DE BORRAR LOS <BR> DE ABAJO
+<div id="carousel-box" class="carousel slide desktop">
     <div class="carousel-inner">
     	<div class="item active">
     		<img src="recursos/Imagenes/6.Trabaja/trabaja_con_nosotros_banner.jpg" class="desk-img">
     		<img src="recursos/Imagenes/6.Trabaja/trabaja_con_nosotros_banner_mbl.jpg" class="mobil-img">
         </div>
     </div>
-</div> -->
+</div>
+-->
 <br><br><br><br>
+
 <div class="announce">
 	<h1>TRABAJA CON NOSOTROS</h1>
 	<p>Llena tus datos y se parte de la familia #FamiliaMax Mucha Suerte!</p>
