@@ -17,7 +17,7 @@
 		</div>
 		<div class="groups right-gp">
 			<a href="index.php" id="inicio">INICIO</a>
-			<a href="cejas-pestanas.php" id="cejas">CEJAS Y PESTAÑAS</a>
+			<a href="cejas-pestanas.php" id="cejas">PESTAÑAS Y CEJAS</a>
 			<a href="faciales-corporales.php" id="faciales">FACIALES Y CORPORALES</a>
 			<a href="franquicias.php" id="franquicias">FRANQUICIAS</a>
 			<a href="reservas.php" id="reservas">RESERVAS</a>
@@ -36,7 +36,7 @@
 		</header>
 		<content>
 			<a href="index.php" id="inicio">INICIO</a>
-			<a href="cejas-pestanas.php" id="cejas">CEJAS Y PESTAÑAS</a>
+			<a href="cejas-pestanas.php" id="cejas">PESTAÑAS Y CEJAS</a>
 			<a href="faciales-corporales.php" id="faciales">FACIALES Y CORPORALES</a>
 			<a href="franquicias.php" id="franquicias">FRANQUICIAS</a>
 			<a href="reservas.php" id="reservas">RESERVAS</a>

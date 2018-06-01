@@ -1,3 +1,7 @@
+.announce p{
+	text-align: justify;
+}
+
 .gallery-txt{
 
 	display: flex;

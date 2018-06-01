@@ -120,10 +120,10 @@ error_reporting(0);
 		</div>
 
 		<div class="desc">
-			<h3>Lifting de Pestañas</h3>
-			<p>También conocido como LBL Lashes B-Lift (Levantamiento, volumen, largo y uso de B Pantenol), trabaja sobre la raíz de las pestañas naturales, dándoles la sensación de ser más largas y gruesas. Asimismo, con el teñido superior en el tratamiento, tendrás un efecto de rímel.</p>
+			<h3>Lashes B-Lift &#174</h3>
+			<p>Es un sistema único en Latinoamérica para el levantamiento de pestañas naturales, que ha sido desarrollado exclusivamente para Max Lashes, &#174 bajo los más altos estándares de calidad, también conocido como LBL. Su fórmula está enriquecida con vitamina B, la cual nutre e hidrata las pestañas dejando  un resultado impactante en tu mirada.</p>
 		</div>
-
+ 
 		<div class="desc">
 			<h3>Microblading de pestañas</h3>
 			<p>Se realiza sobre la línea de nacimiento de la pestaña, casi la parte interna del párpado. Cubre los espacios en blanco que hay entre las pestañas. Se aplica anestesia en el tratamiento.</p>
@@ -131,7 +131,7 @@ error_reporting(0);
 
 		<div class="desc">
 			<h3>Microblading de cejas</h3>
-			<p>Consiste en imitar pelito por pelito en la dirección original del crecimiento de la cejas, partiendo de un diseño acorde a las facciones del rostro, completando las partes donde hay poco o nulo volumen.</p>
+			<p>Es una técnica de diseño semipermanente, que consiste en realizar trazos superficiales sobre la piel en la dirección del crecimiento natural del pelo de la ceja, para mejorar la estructura, grosor y forma de las cejas. Se utilizan pigmentos libres de plomo.</p>
 		</div>
 
 		<div class="desc">
