@@ -25,21 +25,20 @@ ob_start();
 <?php require_once("include/header.php");?>
 <?php require_once("php/reserve_process.php");?>
 
-<div id="carousel-box" class="carousel slide desktop">
+<!-- <div id="carousel-box" class="carousel slide desktop">
     <div class="carousel-inner">
     	<div class="item active">
     		<img src="recursos/Imagenes/5.Reservas/reservas_banner.jpg" class="desk-img">
     		<img src="recursos/Imagenes/5.Reservas/reservas_banner_mbl.jpg" class="mobil-img">
         </div>
     </div>
-</div>
-
+</div> -->
+<br><br><br><br>
 
 <div class="announce">
 	<h1>RESERVAS</h1>
 	<p>Este formulario está sujeto a disponibilidad de fechas y horarios. Nuestras especialistas realizan una consulta inicial gratuita, donde recomendamos el mejor tratamiento para ti.</p>
 </div>
-
 
 <div class="container">
 	<form method="post">

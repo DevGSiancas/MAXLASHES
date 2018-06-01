@@ -60,7 +60,7 @@ error_reporting(0);
 
 	<p>Su fundadora y directora, Liliana Lamtenzan, con especializaciones en los centros Americanos y Europeos más reconocidos en el rubro, nos trae desde hace más de 10 años las últimas tendencias, ofreciendo un servicio seguro, saludable, y garantizando el uso de productos especiales para las zonas más sensibles de tu piel; todos estos aprobados con registro sanitario del Ministerio de Salud.</p>
 
-	<p>En Max Lashes tendrás una experiencia única gracias al ambiente adecuado para el tipo de servicio que se ofrece, con una atención de primer nivel por nuestros especialistas que están capacitados y cumplen con certificados en tratamientos de pestañas y cejas.</p>
+	<p>En Max Lashes &#174 tendrás una experiencia única gracias al ambiente adecuado para el tipo de servicio que se ofrece, con una atención de primer nivel por nuestros especialistas que están capacitados y cumplen con certificados en tratamientos de pestañas y cejas.</p>
 </div>
 
 
