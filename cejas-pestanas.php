@@ -120,10 +120,10 @@ error_reporting(0);
 		</div>
 
 		<div class="desc">
-			<h3>Lashes B-Lift &#174</h3>
+			<h3>Lashes B-Lift &#174 <strong>Exclusivo</strong></h3>
 			<p>Es un sistema único en Latinoamérica para el levantamiento de pestañas naturales, que ha sido desarrollado exclusivamente para Max Lashes, &#174 bajo los más altos estándares de calidad, también conocido como LBL. Su fórmula está enriquecida con vitamina B, la cual nutre e hidrata las pestañas dejando  un resultado impactante en tu mirada.</p>
 		</div>
- 
+
 		<div class="desc">
 			<h3>Microblading de pestañas</h3>
 			<p>Se realiza sobre la línea de nacimiento de la pestaña, casi la parte interna del párpado. Cubre los espacios en blanco que hay entre las pestañas. Se aplica anestesia en el tratamiento.</p>

@@ -26,6 +26,15 @@
 .container .left .desc h3{
 	text-align: left;
 	margin: 10px 0px 25px 0px;
+	position: relative;
+}
+
+.container .left .desc h3 strong{
+	color:#444444;
+	position: absolute;
+	font-size: 0.65em;
+	top: -5px;
+	padding-left: 5px;
 }
 
 .container .left .desc p{
