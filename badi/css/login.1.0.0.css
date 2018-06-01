@@ -1,0 +1,83 @@
+@font-face{
+	font-family: LatoLight;
+	src: url("../../recursos/Tipografia/Lato-Light.ttf");
+}
+
+html, body{
+
+	padding: 0px;
+	margin:0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+}
+
+
+form{
+
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	width: 90%;
+	max-width: 340px;
+	padding: 15px 0px;
+}
+
+
+form input{
+
+	width: 100%;
+	font-family: LatoLight;
+	appearance:none;
+	-webkit-appearance:none;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	padding: 10px 0px;
+	margin: 8px 0px;
+	border:none;
+	border-bottom: 1px solid rgba(0,0,0,0.15);
+	font-size: 1em;
+	outline: none;
+
+	transition: border 0.5s;
+	-webkit-transition: border 0.5s;
+	-moz-transition: border 0.5s;
+	-ms-transition: border 0.5s;
+	-o-transition: border 0.5s;
+}
+
+
+form input:focus{
+	border-bottom: 1px solid #f3a288;
+}
+
+
+form input[type="submit"]{
+
+	color: #e24585;
+	border-radius: 0px;
+	border: 1px solid #e24585;
+	padding: 12px;
+	background: none;
+	transition: background 0.5s;
+	-webkit-transition: background 0.5s , color 0.5s;
+	-moz-transition: background 0.5s , color 0.5s;
+	-ms-transition: background 0.5s , color 0.5s;
+	-o-transition: background 0.5s , color 0.5s;
+}
+
+
+form input[type="submit"]:hover{
+	background: #e24585;
+	color: #fff;
+}
+
+
+form p{
+
+	padding: 12px;
+	background: rgba(255,0,0,0.15);
+	color: #ff0000;
+	font-family: LatoLight;
+}

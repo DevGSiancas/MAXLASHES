@@ -1,0 +1,188 @@
+.gallery-txt{
+
+	display: flex;
+	-webkit-display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 30px 0px 50px 0px;
+}
+
+
+.gallery-txt .bg{
+
+	width:380px;
+	height: 265px;
+	background: #232323;
+	margin-right: 50px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url("../recursos/Imagenes/1.Inicio/inicio_quienes_somos.jpg");
+}
+
+
+.gallery-txt h1{
+
+	color: #654ea3;
+	font-family: LatoBold;
+}
+
+
+.gallery-txt p{
+
+	font-size: 1.3em;
+	color: #a8a8a8;
+	font-family: LatoLight;
+}
+
+
+.gallery{
+
+	border-top:1px solid rgba(0,0,0,0.1);
+	text-align: center;
+	padding: 50px 0px;
+
+	perspective: 999;
+	-webkit-perspective: 999;
+	-moz-perspective: 999;
+	-o-perspective: 999;
+	-ms-perspective: 999;
+
+	display: flex;
+	-webkit-display: flex;
+	justify-content: center;
+	align-items: center;
+
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+
+
+.gallery .box{
+
+	opacity: 1;
+	vertical-align: top;
+	width: 320px;
+	height: 320px;
+	background: #242424;
+	color: #fff;
+	margin:0px 2%;
+	display: flex;
+	-webkit-display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 15px;
+	transition: transform opacity 0.5s;
+	-webkit-transition: transform opacity 0.5s;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: LatoBold;
+}
+
+
+.gallery .box1{background-image: url("../recursos/Imagenes/1.Inicio/inicio_cejas_y_pestanas.jpg");}
+
+
+.gallery .box2{background-image: url("../recursos/Imagenes/1.Inicio/inicio_faciales_y_corporales.jpg");}
+
+
+.gallery .box3{background-image: url("../recursos/Imagenes/1.Inicio/inicio_equipos.jpg");}
+
+
+
+.gallery.hide .box{
+
+	opacity: 0px;
+	transform: rotateY(-90deg);
+	-webkit-transform: rotateY(-90deg);
+}
+
+
+.gallery .box a{
+
+	display: inline-block;
+	padding: 10px;
+	width: 180px;
+	margin-top: 15px;
+	font-size: 1.2em;
+	text-decoration: none;
+	font-family: LatoLight;
+	transition: transform 0.5s;
+	-webkit-transition: transform 0.5s;
+	-moz-transition: transform 0.5s;
+	-o-transition: transform 0.5s;
+	-ms-transition: transform 0.5s;
+}
+
+
+.gallery .box a:hover{
+
+	transform: scale(0.9 , 0.9);
+	-webkit-transform: scale(0.9 , 0.9);
+	-moz-transform: scale(0.9 , 0.9);
+	-o-transform: scale(0.9 , 0.9);
+	-ms-transform: scale(0.9 , 0.9);
+}
+
+
+.gallery .box a.filled{
+
+	background: #fff;
+	color: #656565;
+}
+
+
+.gallery .box a.empty{
+
+	border:2px solid #fff;
+	color: #656565;
+	color: #fff;
+}
+
+
+
+@media screen and (max-width: 768px){
+
+
+	.gallery{
+		flex-direction: column;
+		border: none;
+		padding: 0px 0px 0px 0px;
+	}
+
+	.gallery .box{
+		margin: 4px 0px;
+	}
+
+	.gallery-txt{
+		flex-direction: column;
+		width: 100%;
+		padding: 0px;
+	}
+
+	.gallery-txt .block{
+		width: 100%;
+		text-align: center;
+	}
+
+	.gallery-txt h1{
+		text-align: center;
+		padding: 11px 5px;
+		margin: 0px 0px 10px 0px;
+		color: #fff;
+		background: #654ea3;
+		width: 100%;
+		font-size: 1.5em;
+	}
+
+	.gallery-txt p{
+		padding: 12px 5px;
+		font-size: 1.1em;
+		width: 100%;
+	}
+}
