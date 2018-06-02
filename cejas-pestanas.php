@@ -100,11 +100,11 @@ error_reporting(0);
 	<div class="block right">
 
 		<img src="recursos/Iconos/2.CejasPestanas/carta_icon.svg">
-		<a href="#" class="btn">CARTA</a>
+		<a href="Carta 1.pdf" target="_blank" class="btn" download>CARTA</a>
 		<label>Descargar carta de tratamientos</label>
 
 		<img src="recursos/Iconos/2.CejasPestanas/productos_icon.svg">
-		<a href="#" class="btn">PRODUCTOS</a>
+		<a href="Carta 1.pdf" target="_blank" class="btn" download>PRODUCTOS</a>
 		<label>Conoce nuestros productos</label>
 
 		<img src="recursos/Iconos/2.CejasPestanas/reservas_icon.svg">
