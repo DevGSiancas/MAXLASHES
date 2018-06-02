@@ -56,11 +56,10 @@ error_reporting(0);
 
 <div class="announce">
 	<h1>¿QUIÉNES SOMOS?</h1>
-	<p>Somos el centro pionero en Perú y Latinoamérica, especializado en la aplicación de extensiones de pestañas y tratamiento LBL, un tratamiento de levantamiento de pestañas exclusivo que cumple los más altos estándares de calidad.</p>
-
-	<p>Su fundadora y directora, Liliana Lamtenzan, con especializaciones en los centros Americanos y Europeos más reconocidos en el rubro, nos trae desde hace más de 10 años las últimas tendencias, ofreciendo un servicio seguro, saludable, y garantizando el uso de productos especiales para las zonas más sensibles de tu piel; todos estos aprobados con registro sanitario del Ministerio de Salud.</p>
-
-	<p>En Max Lashes &#174 tendrás una experiencia única gracias al ambiente adecuado para el tipo de servicio que se ofrece, con una atención de primer nivel por nuestros especialistas que están capacitados y cumplen con certificados en tratamientos de pestañas y cejas.</p>
+	<p>Somos el centro pionero en Perú y Latinoamérica, especializado en la aplicación de extensiones de pestañas y tratamiento LBL, un sistema de levantamiento de pestañas exclusivo que cumple los más altos estándares de calidad.</p>
+	<p>Su fundadora y directora, Liliana Lamtenzan, con especializaciones en los centros Americanos y Europeos más reconocidos en el rubro, nos trae desde hace más de 10 años las últimas tendencias.</p>
+	<p>Ofrecemos un servicio seguro y saludable, garantizando el uso de productos especiales para las zonas más sensibles de tu piel; todos estos aprobados con registro sanitario del Ministerio de Salud.</p>
+	<p>En Max Lashes tendrás una experiencia única, con una atención de primer nivel brindada por nuestras especialistas, quienes están capacitadas con técnicas internacionales y cumplen con certificados en tratamientos de pestañas y cejas.</p>	
 </div>
 
 

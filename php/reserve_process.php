@@ -9,7 +9,7 @@ if(isset($_POST["submit_reserva"])){
 	$fullname = stripslashes(htmlspecialchars(mysqli_real_escape_string($connect , $_POST["fullname"])));
 	$email = stripslashes(htmlspecialchars(mysqli_real_escape_string($connect , $_POST["email"])));
 	$whatsapp = stripslashes(htmlspecialchars(mysqli_real_escape_string($connect , $_POST["whatsapp"])));
-	$date = stripslashes(htmlspecialchars(mysqli_real_escape_string($connect , $_POST["date"])));
+	$date = "date disabled";
 	$message = stripslashes(htmlspecialchars(mysqli_real_escape_string($connect , $_POST["message"])));
 	$service = "";
 

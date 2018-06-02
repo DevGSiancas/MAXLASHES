@@ -117,17 +117,17 @@ error_reporting(0);
 
 		<div class="desc">
 			<h3>Hydrafacial</h3>
-			<p>Es un cóctel de sueros con vitaminas, antioxidantes y ácido hialurónico que aportan tersura y elasticidad gracias a la combinación de cuatro tratamientos en uno: desintoxica, rejuvenece, protege e hidrata la piel.</p>
+			<p>Es un cóctel de sueros con vitaminas, antioxidantes y ácido hialurónico que aportan tersura y elasticidad, gracias a la combinación de cuatro tratamientos en uno: desintoxica, rejuvenece, protege e hidrata la piel.</p>
 		</div>
 
 		<div class="desc">
 			<h3>Hydra-System</h3>
-			<p>Son micro corrientes eléctricas que actúan en lo más profundo de la piel para regenerar las células. Aplica restricciones para personas con prótesis metálicas, marcapasos y problemas con el acné.</p>
+			<p>Son microcorrientes eléctricas que actúan en lo más profundo de la piel para regenerar las células. Aplica restricciones para personas con prótesis metálicas, marcapasos y problemas con el acné.</p>
 		</div>
 
 		<div class="desc">
 			<h3>Antioxidante (Vitamina C)</h3>
-			<p>Consta de la aplicación de Serum + cremas + mascarilla y corrientes eléctricas que atacan los signos del envejecimiento. Desde las primeras aplicaciones el cutis recupera tersura y firmeza. Al mismo tiempo la vitamina C proporciona luminosidad disimulando los signos del cansancio y estrés en la piel.</p>
+			<p>Consta de la aplicación de Serum + cremas + mascarilla y corrientes eléctricas que atacan los signos del envejecimiento. Desde las primeras aplicaciones, el cutis recupera tersura y firmeza. Al mismo tiempo la vitamina C proporciona luminosidad disimulando los signos del cansancio y estrés en la piel.</p>
 		</div>
 
 		<div class="desc">
@@ -137,7 +137,7 @@ error_reporting(0);
 
 		<div class="desc">
 			<h3>Carboxiterapia</h3>
-			<p>Técnica aplicada para combatir la celulitis, la flacidez y la grasa localizada. Este tratamiento es muy poco invasivo que consiste en la aplicación de CO2 a través de vías subcutáneas mediante pequeñas infiltraciones en los tejidos afectos.</p>
+			<p>Técnica aplicada para combatir la celulitis, la flacidez y la grasa localizada. Este tratamiento es muy poco invasivo, y consiste en la aplicación de CO2 a través de vías subcutáneas mediante pequeñas infiltraciones en los tejidos afectos.</p>
 		</div>
 
 	</div>
@@ -150,13 +150,13 @@ error_reporting(0);
 	<div class="block">
 		<iframe class="video" src="https://www.youtube.com/embed/uPKhfOGfSak?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		<h1>Testimonios</h1>
-		<p>¡No hay secretos! Tú también puedes tener una mirada perfecta, dándole a tus pestañas y cejas un look radiante. Pruébalo y cuéntanos cómo te fue.</p>
+		<p>Siéntete más cómoda y bella luciendo un cutis radiante. Prueba nuestros servicios y cuéntanos cómo te fue.</p>
 	</div>
 
 	<div class="block">
-		<iframe class="video" src="https://www.youtube.com/embed/Clo61Y0I9ds?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/AsBAlhlr5T8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		<h1>Tratamientos</h1>
-		<p>Resalta tu belleza natural con nuestros tratamientos.</p>
+		<p>Te brindamos una gama de servicios que complementan un estilo de vida saludable. Recibe una asesoría personalizada de manera gratuita, para que conozcas el tratamiento ideal para ti.</p>
 	</div>
 
 </div>

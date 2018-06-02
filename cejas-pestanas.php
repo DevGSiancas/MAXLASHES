@@ -121,7 +121,7 @@ error_reporting(0);
 
 		<div class="desc">
 			<h3>Lashes B-Lift &#174 <strong>Exclusivo</strong></h3>
-			<p>Es un sistema único en Latinoamérica para el levantamiento de pestañas naturales, que ha sido desarrollado exclusivamente para Max Lashes, &#174 bajo los más altos estándares de calidad, también conocido como LBL. Su fórmula está enriquecida con vitamina B, la cual nutre e hidrata las pestañas dejando  un resultado impactante en tu mirada.</p>
+			<p>Es un sistema único en Latinoamérica para el levantamiento de pestañas naturales, que ha sido desarrollado exclusivamente para Max Lashes bajo los más altos estándares de calidad, también conocido como LBL. Su fórmula está enriquecida con vitamina B, la cual nutre e hidrata las pestañas dejando un resultado impactante en tu mirada.</p>
 		</div>
 
 		<div class="desc">
@@ -148,13 +148,13 @@ error_reporting(0);
 	<div class="block">
 		<iframe class="video" src="https://www.youtube.com/embed/QF-h2Wqwh4I?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		<h1>Testimonios</h1>
-		<p>¡No hay secretos! Tú también puedes tener una mirada perfecta, dándole a tus pestañas y cejas un look radiante. Pruébalo y cuéntanos cómo te fue!</p>
+		<p>¡No hay secretos! Tú también puedes tener una mirada perfecta, dándole a tus pestañas y cejas un look radiante. Pruébalo y cuéntanos cómo te fue.</p>
 	</div>
 
 	<div class="block">
-		<iframe class="video" src="https://www.youtube.com/embed/RBlMxEcXlaY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/RBlMxEcXlaY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		<h1>Tratamientos</h1>
-		<p>Tenemos una gama de productos que beneficiarán a tus cejas y pestañas, dándole más fuerza y pronunciamiento en sus formas. Ten una asesoría personalizada gratuita para conocer tu estado y orientarte al tratamiento que es para ti.</p>
+		<p>Tenemos una gama de productos que beneficiarán a tus cejas y pestañas, dándole más fuerza y vitalidad. Recibe una asesoría personalizada  de manera gratuita, para que conozcas el tratamiento ideal para ti.</p>
 	</div>
 
 </div>

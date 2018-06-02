@@ -50,7 +50,7 @@ ob_start();
 <br><br><br><br>
 <div class="announce">
 	<h1>FRANQUICIAS</h1>
-	<p>Somos un centro especializado en el cuidado de tus cejas, pestañas y cuerpo. Queremos que seas parte de nuestro exito.</p>
+	<p>Somos un centro especializado en el cuidado de tus cejas, pestañas y cuerpo. Queremos que seas parte de nuestro éxito.</p>
 </div>
 
 

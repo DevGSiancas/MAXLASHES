@@ -16,7 +16,7 @@ ob_start();
 	<meta name="description" content="Reserva tu cita para nuestros tratamientos corporales, faciales, lifting de pestañas, micropigmentación de cejas, extensión de pestañas, entre otros.">
 	<meta name="autor" content="MDA , DEV-SIANCAS">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap-datepicker3.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/bootstrap-datepicker3.css"> -->
 	<link rel="stylesheet" type="text/css" href="css/global.1.0.0.css"/>
 	<link rel="stylesheet" type="text/css" href="css/reservas.1.0.0.css"/>
 </head>
@@ -61,7 +61,7 @@ ob_start();
 		<!-- <select name="service" id="service" required>
 			<option disabled>Seleccione tratamiento</option>
 		</select> -->
-		<input type="text" name="date" class="date date-picker" placeholder="dd/mm/yyyy" id="date" required>
+		<!-- <input type="text" name="date" class="date date-picker" placeholder="dd/mm/yyyy" id="date" required> -->
 		<textarea name="message" placeholder="Mensaje" rows="4"></textarea>
 		<input type="submit" name="submit_reserva" value="ENVIAR">
 	</form>
@@ -81,7 +81,7 @@ ob_start();
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/global.1.0.0.js"></script>
-<script type="text/javascript" src="js/bootstrap-datepicker.js"></script>
+<!-- <script type="text/javascript" src="js/bootstrap-datepicker.js"></script> -->
 <script src="http://maps.google.com/maps/api/js?key=AIzaSyARacLyvn7ZJTsJSX_QMvFbaeE45nOgjKU" type="text/javascript"></script>
 <script type="text/javascript">
 
@@ -113,38 +113,6 @@ ob_start();
         }
       })(marker, i));
     }
-
-
-    $(document).ready(function(){
-
-		// $("form").on("change" , ".treatment" , function(){
-		//
-		// 	var select = $("#service");
-		// 	var type = $(this).val();
-		// 	var content = "";
-		//
-		// 	if(type == 1){
-		// 		content+= '<option value="Extensiones de pestañas">Extensiones de pestañas</option>';
-		// 		content+= '<option value="Lifting de Pestañas">Lifting de Pestañas</option>';
-		// 		content+= '<option value="Microblading de pestañas">Microblading de pestañas</option>';
-		// 		content+= '<option value="Microblading de cejas">Microblading de cejas</option>';
-		// 		content+= '<option value="Diseño y definición de cejas">Diseño y definición de cejas</option>';
-		// 	}else{
-		// 		content+= '<option value="Hydrafacial">Hydrafacial</option>';
-		// 		content+= '<option value="Hydra-System">Hydra-System</option>';
-		// 		content+= '<option value="Antioxidante (Vitamina C)">Antioxidante (Vitamina C)</option>';
-		// 		content+= '<option value="Velox – Tratamiento reductor">Velox – Tratamiento reductor</option>';
-		// 		content+= '<option value="Carboxiterapia">Carboxiterapia</option>';
-		// 	}
-		// 	select.html(content);
-		// })
-
-
-		$('.date-picker').datepicker({
-			startDate: "today"
-		});
-
-	});
 
 </script>
 </body>
